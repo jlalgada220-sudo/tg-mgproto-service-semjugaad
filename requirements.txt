@@ -1,0 +1,7 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.12
+pyrofork>=2.3.44
+tgcrypto>=1.2.5
+aiofiles>=24.1.0
+gradio>=4.44.0
